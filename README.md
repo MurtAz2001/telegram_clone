@@ -17,6 +17,9 @@ To get a local copy up and running, follow these simple steps:
 ```bash
 npm install
 ```
+```bash
+npm start
+```
 
 ### Prerequisites
 
