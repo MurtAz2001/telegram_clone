@@ -14,6 +14,10 @@ Check out the live demo of the project [here](https://telegram-rose-theta.vercel
 
 To get a local copy up and running, follow these simple steps:
 
+```bash
+npm install
+```
+
 ### Prerequisites
 
 - Node.js (v14 or later)
