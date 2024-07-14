@@ -3,13 +3,8 @@
 Welcome to the Telegram Clone project! This project aims to replicate the core functionalities of the popular messaging app Telegram. The goal is to provide a comprehensive, open-source example of how to build a messaging application using modern web technologies.
 
 ## Features
-
-- User authentication (sign up, login, logout)
-- Real-time messaging
 - Group chats
-- Media sharing (images, videos)
 - User profiles
-- Notification system
 
 ## Demo
 
